@@ -1,4 +1,3 @@
-![temp-Image0-Dsw-Di.jpg](https://postimg.cc/ftH176ky)
 <h1>Hi 👋, we are the Open Dakshina Kannada Community!</h1>
 <h3>ODK empowers businesses with powerful tools to thrive in the next era of the open network.</h3>
 
