@@ -1,4 +1,4 @@
-[Header]([image link](https://ibb.co/2hQ8HvD))
+![Header]([image link](https://ibb.co/2hQ8HvD))
 <h1>Hi 👋, we are the Open Dakshina Kannada Community!</h1>
 <h3>ODK empowers businesses with powerful tools to thrive in the next era of the open network.</h3>
 
